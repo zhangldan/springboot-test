@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 eqwretbhj
 qyedbcbnjd
 qwer
+=======
+eqwretbhj
+>>>>>>> 4eb676f0ebe000004e73fde24288bbb6e38f83a2
